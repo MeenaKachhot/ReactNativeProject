@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /Users/meenakachhot/Documents/My/reactNativeProject/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/4b04cac2ef2444c4e04f57cdbc978372/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/7f2b978e3c9bb93652a1f3a5702a3b7b/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/f537b73a4166c15dfbc2b1b48035e47f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/2cc796229ae28c670f93f9f625963451/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/77a9bfe7726d79b0e42517e566f89016/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/301cb1b17f8073c47fe473d2d24b9b32/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/26074fa6069f248d7096199fa0b3cb15/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/96b41cccca8e3f5e0f1d7d07030e1eae/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/36e8816b32e983fd825c6e5e39624cfe/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/062af60d1ccf4be9f644d4352a034b39/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/5938d9cd6a48a727198e4fc034d8b464/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/cb0a29125518147ae78d90a442049b03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/9493b31b3538dbb89bbafffd47b73c33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/e0b03c12c017d1e6f89f6876d97fc263/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/c3bc8a83641f55ef4e9f5d71949a6376/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/5f6b8e04e4bde8002ee784e76a6ab4af/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/697b0e14891005d52b3e5049b37e6ec1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/fbca0e91bb2f4e7b2b010fb79d4bf181/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/c94a5ded4cb9f07bae6ef1c8a10c9814/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/745ebc71cea65832937482c78e080648/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/01d823ebed87085bec658eb01373dfe6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/fedf1a236b122a3c19b3fa8eb957a1db/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/a303a5aa12445c4b468c75f158f5c451/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/8f15d2c4d56b6b303e4bd38f33a530f1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/07a0f645312a3a8ef8452cce9aed6709/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/83cf7d9d3e177ffe8fd3076d18426b45/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/b63966bf1ece73582e1684544091c33f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/7e9f7ab06fd32ff0e1137748d9b5a323/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/11432d4023b9d640e5b5093a8ef304e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/888f2b64829241a65222a659dcb4c631/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/1ef654e12f43330a4f4bd97e79361a80/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/681c88d4631955db0e3a2b95240a7fab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/7dc7fbd6de5c30c34b72e325db98f771/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/461e1875af8ed70c12023e4ec74cb402/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/314aba87784dffd86ed69cb5388872d8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/3a159bc7f79baa539d81eb95fab1c024/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/d088aa7bd0de5d8cdd08d49dd3ab577b/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:2:3-35
+		INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:2:3-35
+		INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/4b04cac2ef2444c4e04f57cdbc978372/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/4b04cac2ef2444c4e04f57cdbc978372/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/5938d9cd6a48a727198e4fc034d8b464/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/5938d9cd6a48a727198e4fc034d8b464/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/07a0f645312a3a8ef8452cce9aed6709/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/07a0f645312a3a8ef8452cce9aed6709/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/83cf7d9d3e177ffe8fd3076d18426b45/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/83cf7d9d3e177ffe8fd3076d18426b45/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/07a0f645312a3a8ef8452cce9aed6709/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.reactnativeproject.MainActivity
+ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/meenakachhot/Documents/My/reactNativeProject/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/meenakachhot/Documents/My/reactNativeProject/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/4b04cac2ef2444c4e04f57cdbc978372/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/4b04cac2ef2444c4e04f57cdbc978372/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/7f2b978e3c9bb93652a1f3a5702a3b7b/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/7f2b978e3c9bb93652a1f3a5702a3b7b/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/f537b73a4166c15dfbc2b1b48035e47f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/f537b73a4166c15dfbc2b1b48035e47f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/2cc796229ae28c670f93f9f625963451/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/2cc796229ae28c670f93f9f625963451/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/77a9bfe7726d79b0e42517e566f89016/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/77a9bfe7726d79b0e42517e566f89016/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/301cb1b17f8073c47fe473d2d24b9b32/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/301cb1b17f8073c47fe473d2d24b9b32/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/26074fa6069f248d7096199fa0b3cb15/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/26074fa6069f248d7096199fa0b3cb15/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/96b41cccca8e3f5e0f1d7d07030e1eae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/96b41cccca8e3f5e0f1d7d07030e1eae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/36e8816b32e983fd825c6e5e39624cfe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/36e8816b32e983fd825c6e5e39624cfe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/062af60d1ccf4be9f644d4352a034b39/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/062af60d1ccf4be9f644d4352a034b39/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/5938d9cd6a48a727198e4fc034d8b464/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/5938d9cd6a48a727198e4fc034d8b464/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/cb0a29125518147ae78d90a442049b03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/cb0a29125518147ae78d90a442049b03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/9493b31b3538dbb89bbafffd47b73c33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/9493b31b3538dbb89bbafffd47b73c33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/e0b03c12c017d1e6f89f6876d97fc263/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/e0b03c12c017d1e6f89f6876d97fc263/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/c3bc8a83641f55ef4e9f5d71949a6376/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/c3bc8a83641f55ef4e9f5d71949a6376/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/5f6b8e04e4bde8002ee784e76a6ab4af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/5f6b8e04e4bde8002ee784e76a6ab4af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/697b0e14891005d52b3e5049b37e6ec1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/697b0e14891005d52b3e5049b37e6ec1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/fbca0e91bb2f4e7b2b010fb79d4bf181/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/fbca0e91bb2f4e7b2b010fb79d4bf181/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/c94a5ded4cb9f07bae6ef1c8a10c9814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/c94a5ded4cb9f07bae6ef1c8a10c9814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/745ebc71cea65832937482c78e080648/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/745ebc71cea65832937482c78e080648/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/01d823ebed87085bec658eb01373dfe6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/01d823ebed87085bec658eb01373dfe6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/fedf1a236b122a3c19b3fa8eb957a1db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/fedf1a236b122a3c19b3fa8eb957a1db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/a303a5aa12445c4b468c75f158f5c451/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/a303a5aa12445c4b468c75f158f5c451/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/8f15d2c4d56b6b303e4bd38f33a530f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/8f15d2c4d56b6b303e4bd38f33a530f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/07a0f645312a3a8ef8452cce9aed6709/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/07a0f645312a3a8ef8452cce9aed6709/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/83cf7d9d3e177ffe8fd3076d18426b45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/83cf7d9d3e177ffe8fd3076d18426b45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/b63966bf1ece73582e1684544091c33f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/b63966bf1ece73582e1684544091c33f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/7e9f7ab06fd32ff0e1137748d9b5a323/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/7e9f7ab06fd32ff0e1137748d9b5a323/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/11432d4023b9d640e5b5093a8ef304e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/11432d4023b9d640e5b5093a8ef304e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/888f2b64829241a65222a659dcb4c631/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/888f2b64829241a65222a659dcb4c631/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/1ef654e12f43330a4f4bd97e79361a80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/1ef654e12f43330a4f4bd97e79361a80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/681c88d4631955db0e3a2b95240a7fab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/681c88d4631955db0e3a2b95240a7fab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/7dc7fbd6de5c30c34b72e325db98f771/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/7dc7fbd6de5c30c34b72e325db98f771/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/461e1875af8ed70c12023e4ec74cb402/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/461e1875af8ed70c12023e4ec74cb402/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/314aba87784dffd86ed69cb5388872d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/314aba87784dffd86ed69cb5388872d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/3a159bc7f79baa539d81eb95fab1c024/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/3a159bc7f79baa539d81eb95fab1c024/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/d088aa7bd0de5d8cdd08d49dd3ab577b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/meenakachhot/.gradle/caches/transforms-2/files-2.1/d088aa7bd0de5d8cdd08d49dd3ab577b/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/meenakachhot/Documents/My/reactNativeProject/android/app/src/debug/AndroidManifest.xml:5:22-75

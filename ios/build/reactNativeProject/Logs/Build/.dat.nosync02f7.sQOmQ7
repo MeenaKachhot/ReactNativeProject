@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4D25023E-A61E-406C-B6A6-EDED5F9B32EB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4D25023E-A61E-406C-B6A6-EDED5F9B32EB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>reactNativeProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>reactNativeProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace reactNativeProject with scheme reactNativeProject and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>597215205.71781802</real>
+			<key>timeStoppedRecording</key>
+			<real>597215208.818555</real>
+			<key>title</key>
+			<string>Building workspace reactNativeProject with scheme reactNativeProject and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4D25023E-A61E-406C-B6A6-EDED5F9B32EB</string>
+		</dict>
+		<key>7C93E985-C9D5-4727-B27C-EEAE6983A133</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7C93E985-C9D5-4727-B27C-EEAE6983A133.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>reactNativeProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>reactNativeProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace reactNativeProject with scheme reactNativeProject and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>597156457.79451597</real>
+			<key>timeStoppedRecording</key>
+			<real>597156462.08473206</real>
+			<key>title</key>
+			<string>Building workspace reactNativeProject with scheme reactNativeProject and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>7C93E985-C9D5-4727-B27C-EEAE6983A133</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

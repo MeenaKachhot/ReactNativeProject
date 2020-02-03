@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/meenakachhot/Documents/My/reactNativeProject/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/meenakachhot/Documents/My/reactNativeProject/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Folly/folly/Optional.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Folly/folly/Portability.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Folly/folly/CPortability.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Folly/folly/Traits.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Folly/folly/Utility.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/meenakachhot/Documents/My/reactNativeProject/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h
